@@ -1,0 +1,24 @@
+.itembox {
+  height: 100px;
+  border: 1px solid black;
+  width: 300px;
+  background-color: azure;
+  display: inline-block;
+}
+
+#addition {
+  background-color: green;
+}
+#subs {
+  margin-top: 20px;
+  background-color: red;
+}
+
+.button-card {
+  float: right;
+}
+.boxes {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
